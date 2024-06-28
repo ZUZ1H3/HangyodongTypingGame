@@ -51,6 +51,7 @@
 
 #### (2) 게임 방법 화면 
  ‘메인 화면’ 버튼을 누르면 (1)로 되돌아간다. 
+ 
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/67c8fe89-4afe-41cf-9708-5bfec8322a35" alt="HangyodongTypingGame4" width="600px">
 
 #### (3) 단어 저장 화면 
