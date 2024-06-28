@@ -48,3 +48,42 @@
 
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="400px">
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="400px">
+
+## 실행 과정
+#### (1) 메인 화면 
+게임 시작, 게임 방법, 단어 저장, 랭킹 확인을 할 수 있다. 이름을 입력하고 시작 버튼을 누르면 게임이 
+시작된다. 이름을 입력하지 않고 시작 버튼을 누르면 “이름을 입력 해주세요!” 라는 문구가 뜬다. 
+버튼에 마우스를 올리면 버튼 색상이 바뀐다. 
+
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="450px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="450px">
+
+#### (2) 게임 방법 화면 
+ ‘메인 화면’ 버튼을 누르면 (1)로 되돌아간다. 
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/67c8fe89-4afe-41cf-9708-5bfec8322a35" alt="HangyodongTypingGame4" width="700px">
+
+#### (3) 단어 저장 화면 
+단어를 입력하고 엔터치면 저장할 수 있으며, txt파일에 이미 있는 단어일 경우 저장되지 않는다. 
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/dde9b262-c06c-4f95-a8ab-d6d0071a2ff2" alt="HangyodongTypingGame5" width="400px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/ba616603-c3e8-48bb-b7dc-88c33da1022f" alt="HangyodongTypingGame6" width="400px">
+
+#### (4) 랭킹 화면 
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/1f5fce4e-1567-4e8e-80e2-a39fc3563786" alt="HangyodongTypingGame7" width="700px">
+
+#### (5) 게임 실행 화면 
+게임 시작을 했을 때 다이얼로그가 약 3초동안 떴다가 자동으로 사라진 후, 단어가 떨어진다.
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/d4296b8f-f608-48eb-96d8-9c5b8f2480d4" alt="HangyodongTypingGame8" width="400px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/d2ada975-dd2d-4e2d-b0dc-c17d191e02a4" alt="HangyodongTypingGame9" width="400px">
+
+#### 단어를 떨어뜨리거나 오타가 나면 슬픈 표정을, 잘 입력하면 접시에 음식이 생기고 웃는 표정을 짓는다.
+
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/d2e8961a-f5ad-4391-9991-3f4e20746e48" alt="HangyodongTypingGame10"  width="300px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/c219aabc-e8d8-4acd-a4b3-4d60d4be2fdb" alt="HangyodongTypingGame11"  width="300px">
+
+#### 2레벨, 3레벨이 되었을 때의 다이얼로그 
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/e3648728-dea7-43d5-a5dc-74145c94b7d7" alt="HangyodongTypingGame12"  width="300px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/8552acd0-deec-4810-8a20-e15537a311b9" alt="HangyodongTypingGame13"  width="300px">
+
+
+#### 게임오버가 되면 이름과 점수에 저장되고, 종료 또는 메인으로 갈 수 있다. 
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/bae468c6-dc36-49a5-a73b-94589c6acd46" alt="HangyodongTypingGame14"  width="700px">
