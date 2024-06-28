@@ -51,7 +51,7 @@
 
 #### (2) 게임 방법 화면 
  ‘메인 화면’ 버튼을 누르면 (1)로 되돌아간다. 
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/67c8fe89-4afe-41cf-9708-5bfec8322a35" alt="HangyodongTypingGame4" width="700px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/67c8fe89-4afe-41cf-9708-5bfec8322a35" alt="HangyodongTypingGame4" width="600px">
 
 #### (3) 단어 저장 화면 
 단어를 입력하고 엔터치면 저장할 수 있으며, txt파일에 이미 있는 단어일 경우 저장되지 않는다. 
@@ -59,7 +59,7 @@
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/ba616603-c3e8-48bb-b7dc-88c33da1022f" alt="HangyodongTypingGame6" width="400px">
 
 #### (4) 랭킹 화면 
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/1f5fce4e-1567-4e8e-80e2-a39fc3563786" alt="HangyodongTypingGame7" width="700px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/1f5fce4e-1567-4e8e-80e2-a39fc3563786" alt="HangyodongTypingGame7" width="600px">
 
 #### (5) 게임 실행 화면 
 게임 시작을 했을 때 다이얼로그가 약 3초동안 떴다가 자동으로 사라진 후, 단어가 떨어진다.
@@ -77,4 +77,4 @@
 
 
 #### 게임오버가 되면 이름과 점수에 저장되고, 종료 또는 메인으로 갈 수 있다. 
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/bae468c6-dc36-49a5-a73b-94589c6acd46" alt="HangyodongTypingGame14"  width="700px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/bae468c6-dc36-49a5-a73b-94589c6acd46" alt="HangyodongTypingGame14"  width="600px">
