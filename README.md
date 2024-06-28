@@ -6,7 +6,7 @@
 게임은 총 3개의 레벨로 구성되어 있으며, 레벨이 높아질수록 단어 생성 속도와 떨어지는 속도가 증가한다. 3레벨은 게임오버가 될 때까지 지속된다.
 
 ## 프로젝트 구조
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/29fa7bdf-85c8-4aaa-97fe-8ebff71720db" alt="HangyodongTypingGame1"  width="600px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/29fa7bdf-85c8-4aaa-97fe-8ebff71720db" alt="HangyodongTypingGame1"  width="700px">
 
 ## 게임 설명
 ### 레벨 1: 한교동의 식사 시간
@@ -46,5 +46,5 @@
 시작된다. 이름을 입력하지 않고 시작 버튼을 누르면 “이름을 입력 해주세요!” 라는 문구가 뜬다. 
 버튼에 마우스를 올리면 버튼 색상이 바뀐다. 
 
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="450px">
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="450px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="400px">
+<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="400px">
