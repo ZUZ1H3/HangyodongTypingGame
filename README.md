@@ -49,15 +49,6 @@
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="400px">
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="400px">
 
-## 실행 과정
-#### (1) 메인 화면 
-게임 시작, 게임 방법, 단어 저장, 랭킹 확인을 할 수 있다. 이름을 입력하고 시작 버튼을 누르면 게임이 
-시작된다. 이름을 입력하지 않고 시작 버튼을 누르면 “이름을 입력 해주세요!” 라는 문구가 뜬다. 
-버튼에 마우스를 올리면 버튼 색상이 바뀐다. 
-
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/09c7a927-a37a-454a-ac9b-b9db0bf15f77" alt="HangyodongTypingGame2" width="450px">
-<img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/81eb000d-50dd-44ef-82c0-fdec0a34543e" alt="HangyodongTypingGame3" width="450px">
-
 #### (2) 게임 방법 화면 
  ‘메인 화면’ 버튼을 누르면 (1)로 되돌아간다. 
 <img src="https://github.com/ZUZ1H3/HangyodongTypingGame/assets/147241368/67c8fe89-4afe-41cf-9708-5bfec8322a35" alt="HangyodongTypingGame4" width="700px">
